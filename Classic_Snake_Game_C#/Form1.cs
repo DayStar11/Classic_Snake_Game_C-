@@ -73,6 +73,7 @@ namespace Classic_Snake_Game_C_
             }
         }
 
+
         private void StartGame(object sender, EventArgs e)
         {
             RestartGame();
